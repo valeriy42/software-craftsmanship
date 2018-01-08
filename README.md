@@ -2,7 +2,7 @@
 
 ## Discussions
 * [How a software craftsman learns: deliberate practice](https://www.todaysoftmag.com/article/507/how-a-software-craftsman-learns-deliberate-practice)
-* [Why I Don’t Do Code Katas](https://hackhands.com/dont-code-katas/)
+
 
 
 ## Code Kata
@@ -17,3 +17,6 @@ This is a format that comes from the martial arts and it is adapted for develope
 
 ## Misc
 * [Clean Code Developer](http://clean-code-developer.de/) (German) 6 grades of the CCD value system with excercises and practices included in different grades. You can order wristbands for different grades to remind yourself to keep practicing :-)
+
+## Coding Excercises
+* [Edabit](https://edabit.com/explore) Collection of coding excercises in Java, JavaScript, and Python
