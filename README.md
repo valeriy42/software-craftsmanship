@@ -13,7 +13,7 @@ A code kata is an exercise in programming which helps programmers hone their ski
 ## Code Dojo
 This is a format that comes from the martial arts and it is adapted for developers. Coding dojo is a group exercise that has the purpose of spreading knowledge amongst the members of the audience. A topic is suggested and a period of time during which the group will try to solve a problem, by exercising some specific practices. 
 * [Cyber Dojo](http://www.cyber-dojo.com/)
-* [Clean Code Developer School](http://ccd-school.de/coding-dojo/)
+* [Clean Code Developer School](http://ccd-school.de/coding-dojo/) (German) Large collection of different excercises
 
 ## Misc
 * [Clean Code Developer](http://clean-code-developer.de/) (German) 6 grades of the CCD value system with excercises and practices included in different grades. You can order wristbands for different grades to remind yourself to keep practicing :-)
