@@ -9,6 +9,7 @@
 A code kata is an exercise in programming which helps programmers hone their skills through practice and repetition.
 * [Codewars: Achieve Code Mastery through Kata](http://codewars.com/)
 * [CodeKata](http://codekata.com/)
+* [Kata Catalogue at codingdojo.org](http://codingdojo.org/KataCatalogue/)
 
 ## Code Dojo
 This is a format that comes from the martial arts and it is adapted for developers. Coding dojo is a group exercise that has the purpose of spreading knowledge amongst the members of the audience. A topic is suggested and a period of time during which the group will try to solve a problem, by exercising some specific practices. 
