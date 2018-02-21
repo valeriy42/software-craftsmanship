@@ -18,6 +18,7 @@ This is a format that comes from the martial arts and it is adapted for develope
 
 ## Misc
 * [Clean Code Developer](http://clean-code-developer.de/) (German) 6 grades of the CCD value system with excercises and practices included in different grades. You can order wristbands for different grades to remind yourself to keep practicing :-)
+* [Clean Coders](https://cleancoders.com/) Training videos for software craftsmanship topics by Robert C. Martin
 
 ## Coding Excercises
 * [Edabit](https://edabit.com/explore) Collection of coding excercises in Java, JavaScript, and Python
