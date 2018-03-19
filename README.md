@@ -22,3 +22,9 @@ This is a format that comes from the martial arts and it is adapted for develope
 
 ## Coding Excercises
 * [Edabit](https://edabit.com/explore) Collection of coding excercises in Java, JavaScript, and Python
+
+## TDD
+* [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) blog post by Martin Fowler discussion the difference between test doubles
+* [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.de/xUnit-Test-Patterns-Refactoring-Signature/dp/0131495054) book by Gerard Meszaros
+* [Let's Play: Test-Driven Development](http://www.jamesshore.com/Blog/Lets-Play) screencast series by James Shore showing a real project
+
